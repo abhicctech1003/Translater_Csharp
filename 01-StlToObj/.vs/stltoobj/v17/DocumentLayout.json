@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\headers\\stlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\headers\\stlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\headers\\stltoobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\headers\\stltoobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\headers\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\headers\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|e:\\abhishek\\08-c#\\translater_csharp\\01-stltoobj\\stltoobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808ACA9B-6BF7-4880-8389-A1AFBED11F82}|stltoobj\\stltoobj.csproj|solutionrelative:stltoobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StlToObj.cs",
+              "DocumentMoniker": "E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\headers\\StlToObj.cs",
+              "RelativeDocumentMoniker": "stltoobj\\headers\\StlToObj.cs",
+              "ToolTip": "E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\headers\\StlToObj.cs",
+              "RelativeToolTip": "stltoobj\\headers\\StlToObj.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:30:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StlReader.cs",
+              "DocumentMoniker": "E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\headers\\StlReader.cs",
+              "RelativeDocumentMoniker": "stltoobj\\headers\\StlReader.cs",
+              "ToolTip": "E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\headers\\StlReader.cs",
+              "RelativeToolTip": "stltoobj\\headers\\StlReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:29:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\headers\\Point3D.cs",
+              "RelativeDocumentMoniker": "stltoobj\\headers\\Point3D.cs",
+              "ToolTip": "E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\headers\\Point3D.cs",
+              "RelativeToolTip": "stltoobj\\headers\\Point3D.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:29:21.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\Program.cs",
+              "RelativeDocumentMoniker": "stltoobj\\Program.cs",
+              "ToolTip": "E:\\Abhishek\\08-C#\\Translater_Csharp\\01-StlToObj\\stltoobj\\Program.cs",
+              "RelativeToolTip": "stltoobj\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:28:39.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

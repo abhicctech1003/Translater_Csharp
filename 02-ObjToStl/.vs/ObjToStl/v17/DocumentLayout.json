@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Abhishek\\08-C#\\Translater_Csharp\\02-ObjToStl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCF9C1D-B27B-469F-957A-174FC3EFAB83}|ObjToStl\\ObjToStl.csproj|e:\\abhishek\\08-c#\\translater_csharp\\02-objtostl\\objtostl\\headers\\objreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCF9C1D-B27B-469F-957A-174FC3EFAB83}|ObjToStl\\ObjToStl.csproj|solutionrelative:objtostl\\headers\\objreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCF9C1D-B27B-469F-957A-174FC3EFAB83}|ObjToStl\\ObjToStl.csproj|e:\\abhishek\\08-c#\\translater_csharp\\02-objtostl\\objtostl\\headers\\objtostl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCF9C1D-B27B-469F-957A-174FC3EFAB83}|ObjToStl\\ObjToStl.csproj|solutionrelative:objtostl\\headers\\objtostl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjtoStl.cs",
+              "DocumentMoniker": "E:\\Abhishek\\08-C#\\Translater_Csharp\\02-ObjToStl\\ObjToStl\\headers\\ObjtoStl.cs",
+              "RelativeDocumentMoniker": "ObjToStl\\headers\\ObjtoStl.cs",
+              "ToolTip": "E:\\Abhishek\\08-C#\\Translater_Csharp\\02-ObjToStl\\ObjToStl\\headers\\ObjtoStl.cs",
+              "RelativeToolTip": "ObjToStl\\headers\\ObjtoStl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:38:25.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjReader.cs",
+              "DocumentMoniker": "E:\\Abhishek\\08-C#\\Translater_Csharp\\02-ObjToStl\\ObjToStl\\headers\\ObjReader.cs",
+              "RelativeDocumentMoniker": "ObjToStl\\headers\\ObjReader.cs",
+              "ToolTip": "E:\\Abhishek\\08-C#\\Translater_Csharp\\02-ObjToStl\\ObjToStl\\headers\\ObjReader.cs",
+              "RelativeToolTip": "ObjToStl\\headers\\ObjReader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:38:10.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

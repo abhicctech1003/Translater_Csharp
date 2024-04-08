@@ -1,0 +1,7 @@
+D:\Om_Workspace\C#\PractiseWork\StlToObj\stltoobj\bin\Debug\stltoobj.exe.config
+D:\Om_Workspace\C#\PractiseWork\StlToObj\stltoobj\bin\Debug\stltoobj.exe
+D:\Om_Workspace\C#\PractiseWork\StlToObj\stltoobj\bin\Debug\stltoobj.pdb
+D:\Om_Workspace\C#\PractiseWork\StlToObj\stltoobj\obj\Debug\stltoobj.csproj.AssemblyReference.cache
+D:\Om_Workspace\C#\PractiseWork\StlToObj\stltoobj\obj\Debug\stltoobj.csproj.CoreCompileInputs.cache
+D:\Om_Workspace\C#\PractiseWork\StlToObj\stltoobj\obj\Debug\stltoobj.exe
+D:\Om_Workspace\C#\PractiseWork\StlToObj\stltoobj\obj\Debug\stltoobj.pdb
