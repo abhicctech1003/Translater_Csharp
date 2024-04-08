@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DCCF9C1D-B27B-469F-957A-174FC3EFAB83}|ObjToStl\\ObjToStl.csproj|solutionrelative:objtostl\\headers\\objreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCCF9C1D-B27B-469F-957A-174FC3EFAB83}|ObjToStl\\ObjToStl.csproj|e:\\abhishek\\08-c#\\translater_csharp\\02-objtostl\\objtostl\\headers\\objtostl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCCF9C1D-B27B-469F-957A-174FC3EFAB83}|ObjToStl\\ObjToStl.csproj|E:\\Abhishek\\08-C#\\Translater_Csharp\\02-ObjToStl\\objtostl\\headers\\objtostl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCCF9C1D-B27B-469F-957A-174FC3EFAB83}|ObjToStl\\ObjToStl.csproj|solutionrelative:objtostl\\headers\\objtostl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "ObjToStl\\headers\\ObjtoStl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T04:38:25.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T04:38:25.697Z"
             },
             {
               "$type": "Document",

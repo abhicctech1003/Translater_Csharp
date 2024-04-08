@@ -5,3 +5,10 @@ D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\obj\Debug\ObjToStl.csproj.Asse
 D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\obj\Debug\ObjToStl.csproj.CoreCompileInputs.cache
 D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\obj\Debug\ObjToStl.exe
 D:\Om_Workspace\C#\PractiseWork\ObjToStl\ObjToStl\obj\Debug\ObjToStl.pdb
+E:\Abhishek\08-C#\Translater_Csharp\02-ObjToStl\ObjToStl\bin\Debug\ObjToStl.exe.config
+E:\Abhishek\08-C#\Translater_Csharp\02-ObjToStl\ObjToStl\bin\Debug\ObjToStl.exe
+E:\Abhishek\08-C#\Translater_Csharp\02-ObjToStl\ObjToStl\bin\Debug\ObjToStl.pdb
+E:\Abhishek\08-C#\Translater_Csharp\02-ObjToStl\ObjToStl\obj\Debug\ObjToStl.csproj.AssemblyReference.cache
+E:\Abhishek\08-C#\Translater_Csharp\02-ObjToStl\ObjToStl\obj\Debug\ObjToStl.csproj.CoreCompileInputs.cache
+E:\Abhishek\08-C#\Translater_Csharp\02-ObjToStl\ObjToStl\obj\Debug\ObjToStl.exe
+E:\Abhishek\08-C#\Translater_Csharp\02-ObjToStl\ObjToStl\obj\Debug\ObjToStl.pdb
